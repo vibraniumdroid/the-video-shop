@@ -1,2 +1,5 @@
 # the-video-shop
-A an SQL database and a webpage for video shop. PHP and HTML are used for the webpage.
+# An SQL database and a webpage for video rental shop
+# PHP and HTML are used for the webpage.
+# Originally created as a CIS course project 
+
