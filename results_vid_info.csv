@@ -1,0 +1,21 @@
+vid_title,vid_genre,vid_desc,release_date,video_ID
+"Iron Man",Superhero,"A Marvel Studios film directed by Jon Favreau starring Robert Downey Jr. (Tony stark).",2008-05-02,1
+"The Secret of Kells","Fantasy | Adventure","A Les Armateurs animated film directed by Tomm Moore and Nora Twomey starring VAs Evan McGuire and Brendan Gleeson.",2009-01-30,2
+"Iron Man 2",Superhero,"Sequel to the 2008 Marvel Studios film Iron Man. Directed by Jon Favreau amd starring Robert Downey Jr. (Tony stark).",2010-05-07,3
+Thor,Superhero,"A Marvel Studios film directed by Kenneth Branagh starring Chris Hemsworth (Thor).",2011-05-06,4
+"Captain America: The First Avenger",Superhero,"A Marvel Studios film directed by Joe Johnston starring Chris Evans (Steve Rogers).",2011-07-22,5
+"The Avengers",Superhero,"A Marvel Studios film directed Joss Whedon. It stars Robert Downey Jr, Chris Evans, Mark Ruffalo, Chris Hemsworth, and Scarlett Johansson.",2012-05-04,6
+"Guardians of the Galaxy",Sci-fi,"A Marvel Studios film directed by James Gunn starring Chris Pratt (Star Lord).",2014-08-01,7
+Unbroken,"War | Biographical","A Legendary Pictures film directed by Angelina Jolie starring Jack OConnell (Louis Zamperini).",2014-12-25,8
+Ant-Man,Superhero,"A Marvel Studios film directed by Peyton Reed starring Paul Rudd (Ant-man).",2015-07-17,9
+"Stranger Things SE1","Sci-fi | Mystery","A Netflix TV series directed the Duffer brothers starring Winona Ryder (Joyce), David Harbour (Jim), Finn Wolfhard (Mike), and Millie Bobby Brown (El).",2016-07-15,10
+"Doctor Strange","Sci-fi | Fantasy","A Marvel Studios film directed by Scott Derrickson starring Benedict Cumberbatch (Steven Strange).",2016-11-04,11
+"Spider-Man: Homecoming",Superhero,"A Marvel Studios film directed by Jon Watts starring Tom Holland (Peter Parker).",2017-07-07,12
+It,Horror,"A Stephen King inspired film directed by Andrés Muschietti starring Jaeden Lieberher and Bill Skarsgard.",2017-09-08,13
+"Stranger Things SE2","Sci-fi | Mystery","A Netflix TV series directed the Duffer brothers starring Winona Ryder (Joyce), David Harbour (Jim), Finn Wolfhard (Mike), and Millie Bobby Brown (El).",2017-10-27,14
+"Black Panther",Superhero,"A Marvel Studios film directed by Ryan Coogler starring Chadwick Boseman (Black Panther).",2018-02-16,15
+"Stranger Things SE3","Sci-fi | Mystery","A Netflix TV series directed the Duffer brothers starring Winona Ryder (Joyce), David Harbour (Jim), Finn Wolfhard (Mike), and Millie Bobby Brown (El).",2019-07-05,16
+"It Chapter Two",Horror,"A Stephen King inspired film directed by Andrés Muschietti starring Jessica Chastain, James McAvoy, Bill Hader, Isaiah Mustafa, and Jay Ryan.",2019-09-06,17
+"Arcane SE1","Sci-fi | Dystopian | Steampunk","A Netflix TV series animated by Fortiche and directed Pascal Charrue and Arnaud Delord inspired by Riot Games League of Legends.",2021-11-06,18
+"Stranger Things SE4 VOL1","Sci-fi | Mystery","A Netflix TV series directed the Duffer brothers starring Winona Ryder (Joyce), David Harbour (Jim), Finn Wolfhard (Mike), and Millie Bobby Brown (El).",2022-05-27,19
+"Stranger Things SE4 VOL2","Sci-fi | Mystery","A Netflix TV series directed the Duffer brothers starring Winona Ryder (Joyce), David Harbour (Jim), Finn Wolfhard (Mike), and Millie Bobby Brown (El).",2022-07-01,20
